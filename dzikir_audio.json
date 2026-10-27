@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Istighfar",
+    "arabic": "أَسْتَغْفِرُ اللّٰهَ الْعَظِيْمَ",
+    "latin": "Astaghfirullahal 'Adzim",
+    "translation": "Aku memohon ampun kepada Allah Yang Maha Agung.",
+    "audio": "assets/audio/istighfar2.mp3",
+    "default_count": 33
+  },
+  {
+    "id": 2,
+    "title": "Subhanallah",
+    "arabic": "سُبْحَانَ اللّٰهِ",
+    "latin": "Subhanallah",
+    "translation": "Maha Suci Allah.",
+    "audio": "assets/audio/subhanallah.mp3",
+    "default_count": 33
+  },
+  {
+    "id": 3,
+    "title": "Alhamdulillah",
+    "arabic": "الْحَمْدُ لِلّٰهِ",
+    "latin": "Alhamdulillah",
+    "translation": "Segala puji bagi Allah.",
+    "audio": "assets/audio/alhamdulillah.mp3",
+    "default_count": 33
+  },
+  {
+    "id": 4,
+    "title": "Allahu Akbar",
+    "arabic": "اللّٰهُ أَكْبَرُ",
+    "latin": "Allahu Akbar",
+    "translation": "Allah Maha Besar.",
+    "audio": "assets/audio/allahu_akbar.mp3",
+    "default_count": 33
+  },
+  {
+    "id": 5,
+    "title": "Laa Ilaaha Illallah",
+    "arabic": "لَا إِلٰهَ إِلَّا اللّٰهُ",
+    "latin": "Laa Ilaaha Illallah",
+    "translation": "Tiada Tuhan selain Allah.",
+    "audio": "assets/audio/laa_ilaaha_illallah.mp3",
+    "default_count": 33
+  },
+  {
+    "id": 6,
+    "title": "Shalawat Jibril",
+    "arabic": "صَلَّى اللّٰهُ عَلَى مُحَمَّدٍ",
+    "latin": "Shallallahu 'Ala Muhammad",
+    "translation": "Semoga Allah melimpahkan shalawat kepada Nabi Muhammad.",
+    "audio": "assets/audio/shalawat_jibril.mp3",
+    "default_count": 100
+  },
+  {
+    "id": 7,
+    "title": "Hasbunallah",
+    "arabic": "حَسْبُنَا اللّٰهُ وَنِعْمَ الْوَكِيْلُ",
+    "latin": "Hasbunallahu Wa Ni'mal Wakil",
+    "translation": "Cukuplah Allah sebagai penolong kami dan Dia sebaik-baik pelindung.",
+    "audio": "assets/audio/hasbunallah.mp3",
+    "default_count": 100
+  },
+  {
+    "id": 8,
+    "title": "Hauqalah",
+    "arabic": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللّٰهِ",
+    "latin": "Laa Hawla Wa Laa Quwwata Illa Billah",
+    "translation": "Tiada daya dan kekuatan kecuali dengan pertolongan Allah.",
+    "audio": "assets/audio/hauqalah.mp3",
+    "default_count": 100
+  }
+]

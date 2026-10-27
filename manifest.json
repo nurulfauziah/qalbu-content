@@ -1,0 +1,10 @@
+
+{
+  "content_version": 1,
+  "updated_at": "2026-10-27",
+  "files": {
+    "doa": "doa.json",
+    "dzikir": "dzikir.json",
+    "ratib": "ratib_full.json"
+  }
+}
